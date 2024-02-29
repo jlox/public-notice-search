@@ -1,0 +1,34 @@
+Script started on Wed Feb 28 21:21:29 2024
+^[[A^[[A^[[A[1m[7m%[27m[1m[0m                                                                                ]2;jeannelocker@jeannes-mbp:~/Development/column-frontend-exercise-feb-2024-main]1;..feb-2024-main]7;file://jeannes-mbp.lan/Users/jeannelocker/Development/column-frontend-exercise-feb-2024-main\[0m[27m[24m[Jjeannes-mbp [1m[34m:: [0m[34m[32m~/Development/column-frontend-exercise-feb-2024-main [1m[32m[34m»[39m[0m [K[?1h=[?2004hscript screen.log[K[A[63Cnpm start[K[1B[K[A[79C[9Drm -rf screen.log[K[A[63Cnpm i[K[1B[K[A[75Cvi[2Cscreen.log[K[A[66Cls[K[1B[K[A[72Cexitnpm start[?1l>[?2004l[1B]2;npm start]1;npm
+> column-frontend-exercise@0.1.0 start
+> firebase emulators:start --import=./database --export-on-exit --project demo-column-frontend-exercise & react-scripts start
+
+(node:85708) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[33m[1m⚠  emulators:[22m[39m You are not currently authenticated so some features may not work correctly. Please run [1mfirebase login[22m to authenticate the CLI.
+[31m[1m⬢  emulators:[22m[39m firebase-tools no longer supports Java version before 11. Please upgrade to Java version 11 or above to continue using the emulators.
+[36m[1mi  emulators:[22m[39m Shutting down emulators.
+
+[1m[31mError:[39m[22m firebase-tools no longer supports Java version before 11. Please upgrade to Java version 11 or above to continue using the emulators.
+(node:85710) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:85710) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+
+Having trouble? Try [1mfirebase [command] --help[22m
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mcolumn-frontend-exercise[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.86.159:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+webpack compiled [1m[32msuccessfully[39m[22m
+^C
+[1m[7m%[27m[1m[0m                                                                                ]2;jeannelocker@jeannes-mbp:~/Development/column-frontend-exercise-feb-2024-main]1;..feb-2024-main]7;file://jeannes-mbp.lan/Users/jeannelocker/Development/column-frontend-exercise-feb-2024-main\[0m[27m[24m[Jjeannes-mbp [1m[34m:: [0m[34m[32m~/Development/column-frontend-exercise-feb-2024-main [1m[32m[34m»[39m[0m [K[4C[31m130 ↵[39m[9D[?1h=[?2004heexit[K[?1l>[?2004l
+]2;exit]1;exit
+Script done on Wed Feb 28 21:21:40 2024
