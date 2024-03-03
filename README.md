@@ -2,6 +2,12 @@
 
 To run, please run npm start **within /column-frontend-exercise-feb-2024-main**
 
+### Dev Notes
+- I had no knowledge of Firebase before this project, so it was as fun research opportunity. Had I been more familiar, I would have wanted to attempt pagination on the API side of things (rather than load all data and paginate on client side). Although I attempted this solution, I was unable to figure out how Firebase snapshots worked with limited time (in order to startAt the second page of results), so I pivoted to a cruder solution.
+- I had some issues with getting my environment set up, particularly the tests and emulator.
+- I used Materialize UI for the pagination component for simplicity's sake.
+- Testing is difficult because of my unfamiliarity with mocking firebase functions
+
 ### Requirements
 ### Search UI
 
