@@ -1,5 +1,7 @@
 # public-notice-search
 
+To run, please run npm start **within /column-frontend-exercise-feb-2024-main**
+
 ### Requirements
 ### Search UI
 
